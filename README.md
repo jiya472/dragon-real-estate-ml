@@ -87,18 +87,14 @@ App will open in your browser at: `http://localhost:8501`
 
 ---
 
-## 📝 Resume Line
 
-> Built and deployed a Boston house price prediction ML app using XGBoost and Streamlit. Integrated SHAP explainability and hosted on Streamlit Cloud with full GitHub version control.
-
----
 
 ## 🙋 Author
 
 **👩‍💻 Jiya Kumari Sharma**  
 B.Tech CSE (AIML)  
-📧 [Add your email here]  
-🔗 [LinkedIn / GitHub profile]
+📧 [kjiya8562@gmail.com]  
+🔗 [ GitHub profile-jiya472]
 
 ---
 
