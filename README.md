@@ -26,22 +26,20 @@ A Machine Learning project that predicts Boston house prices based on various fe
 ├── Dragon Real Estate - Upgraded.ipynb
 ├── boston_real_estate_model.pkl
 ├── housing.data
-├── screenshot.png
-├── demo.gif
+├── screenshot1.png
+├── screenshot2.png
 ├── README.md
 ```
 
 ---
 
-## 🖼️ App Screenshot
+## 🖼️ App Screenshots
 
-![App Screenshot](screenshot.png)
+### 🔹 Input Form (Before Prediction)
+![Input Form](screenshot1.png)
 
----
-
-## 🎬 Live Demo GIF
-
-![Demo](demo.gif)
+### 🔹 Prediction Output
+![Prediction Result](screenshot2.png)
 
 ---
 
